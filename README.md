@@ -8,7 +8,7 @@ _Earth Planet. Sci. Lett._, in press.
 1. [Getting the code](#get-the-code)
 2. [Building SNAC](#build-SNAC)
 3. [Running SNAC](#running-SNAC)
-4. [Post-processing and visualizing](post-processing-and-visualization)
+4. [Post-processing and visualizing](#post-processing-and-visualization)
 
 # Get the code
 Check out the `waterp` branch from `https://github.com/kelchuan/snac-1`
